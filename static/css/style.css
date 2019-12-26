@@ -1,0 +1,46 @@
+body {
+    font-family: 'Merriweather';
+}
+
+h1 {
+    color: #3c3c3c;
+    /* font-size: 3.5rem; */
+}
+
+h6 {
+    color: #3c3c3c;
+    font-weight: bold;
+}
+
+h6.duration {
+    color: #31849b;
+    font-weight: lighter;
+}
+
+h5 {
+    color: #31849b;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+    font-size: 1rem;
+}
+
+hr {
+    margin-top: 5px;
+    border-width: 2.5px;
+    border-color: #31849b;
+}
+
+a,
+a:hover {
+    color: #31849b;
+}
+
+span.location {
+    font-style: oblique;
+    font-weight: normal;
+}
+
+li {
+    font-size: 14px;
+}
